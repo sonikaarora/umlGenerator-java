@@ -11,3 +11,13 @@ umlparser (classpath) (output file name)
 (classpath) is a folder name where all the .java source files will be 
 
 (output file name) is the name of the output image file you program will generate ( .jpg, .png or .pdf format)
+
+# Details of libraries & tools used
+
+###### Parser:
+
+[https://github.com/javaparser/javaparser]
+
+###### UML Generators:
+
+[http://plantuml.com/]
